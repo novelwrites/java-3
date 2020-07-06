@@ -7,7 +7,7 @@ class Regex {
 
         // 1. What does the following pattern match? (\d){36} explain in a println() statement.
 
-        System.out.println("The following pattern ('\\d'){36} matches : ...");
+        System.out.println("The following pattern ('\\d'){36} matches : \\d refers to a digit (0-9) and {36} refers to a quantifier of 36 times");
 
 
 
